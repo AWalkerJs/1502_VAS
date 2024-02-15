@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+
+    border: 2px solid red;
+}
+
+section {
+    color: green;
+    border: 2px solid black;
+}
+
+div {
+    color: red;
+    border: 2px solid black;
+}
